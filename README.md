@@ -2,10 +2,12 @@
 <img align="right" width="64" src="https://github.com/gnaht41.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
+
 <h2 align="center">Hi 👋, I'm Quốc Thắng (gnaht41)</h2>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
+
 
 > ✍ I'm a Information System at Industrial University of Ho Chi Minh City.
 
@@ -26,10 +28,10 @@
   </a>
 </p>
 
+
 ## Skills:
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/e553b502-bd2f-421b-9738-17ed95da9a79)
-"/>
+  <img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
