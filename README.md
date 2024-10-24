@@ -31,17 +31,25 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000"/>
+  <img src="![image](https://github.com/user-attachments/assets/14803b13-71b8-459a-a982-8ac12d36e80d)
+"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+  <img src="![image](https://github.com/user-attachments/assets/144c21c0-6316-47a4-b365-9118a2116f0f)
+"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="![image](https://github.com/user-attachments/assets/440309d5-f78e-48b8-bf88-115ad1fdff7b)
+"/>
+  <img src="![image](https://github.com/user-attachments/assets/dae71aba-7ca4-4317-b1d3-b142e71d0273)
+"/>
+  <img src="![image](https://github.com/user-attachments/assets/87700cb0-b166-4a0f-aeb6-47c3d8ef60d1)
+"/>
+  <img src="![image](https://github.com/user-attachments/assets/c4ab0db7-8631-44df-825f-4104e2acb4ce)
+"/>
+  <img src="![image](https://github.com/user-attachments/assets/100f41b4-b3b5-460d-9beb-4685a7fc41c5)
+"/>
 </p>
 
 ## Activities:
