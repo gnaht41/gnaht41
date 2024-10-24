@@ -48,8 +48,7 @@
 "/>
   <img src="![image](https://github.com/user-attachments/assets/c4ab0db7-8631-44df-825f-4104e2acb4ce)
 "/>
-  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000
-"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
 </p>
 
 ## Activities:
