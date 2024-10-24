@@ -31,7 +31,7 @@
 
 ## Skills:
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="django"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/django.png" alt="django"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="![image](https://github.com/user-attachments/assets/144c21c0-6316-47a4-b365-9118a2116f0f)
