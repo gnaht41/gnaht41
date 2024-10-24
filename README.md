@@ -48,7 +48,7 @@
 "/>
   <img src="![image](https://github.com/user-attachments/assets/c4ab0db7-8631-44df-825f-4104e2acb4ce)
 "/>
-  <img src="![image](https://github.com/user-attachments/assets/100f41b4-b3b5-460d-9beb-4685a7fc41c5)
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000
 "/>
 </p>
 
