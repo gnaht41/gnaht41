@@ -28,7 +28,8 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://icons8.com/icon/mUBILbYvUMq8/django"/>
+  <img src="![image](https://github.com/user-attachments/assets/e553b502-bd2f-421b-9738-17ed95da9a79)
+"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
