@@ -31,22 +31,7 @@
 
 ## Skills:
 <p align="center">
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/django.png" alt="django"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <a target="_blank" href="https://icons8.com/icon/bzf0DqjXFHIW/react">React</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="![image](https://github.com/user-attachments/assets/440309d5-f78e-48b8-bf88-115ad1fdff7b)
-"/>
-  <img src="![image](https://github.com/user-attachments/assets/dae71aba-7ca4-4317-b1d3-b142e71d0273)
-"/>
-  <img src="![image](https://github.com/user-attachments/assets/87700cb0-b166-4a0f-aeb6-47c3d8ef60d1)
-"/>
-  <img src="![image](https://github.com/user-attachments/assets/c4ab0db7-8631-44df-825f-4104e2acb4ce)
-"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 ## Activities:
