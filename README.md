@@ -1,5 +1,5 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
+<img align="right" width="64" src="https://github.com/gnaht41.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Quốc Thắng (gnaht41)</h2>
@@ -8,10 +8,6 @@
 </p>
 
 > ✍ I'm a Information System at Industrial University of Ho Chi Minh City.
-
-<br />
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://www.facebook.com/gnaht41)
 
 ## 📫 How to reach me:
 
