@@ -18,8 +18,5 @@ A passionate developer from Vietnam 🇻🇳
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=gnaht41&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=gnaht41&icon=0&color=0)](https://visitcount.itsvg.in)
