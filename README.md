@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi 👋, I'm Quốc Thắng (gnaht41)
+👋 Hi, I'm Quốc Thắng (gnaht41)
 <br>
 A passionate developer from Vietnam 🇻🇳
 <br>
