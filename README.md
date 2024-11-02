@@ -1,7 +1,7 @@
 # 💫About Me :
 👋 Hi, I'm Quốc Thắng (gnaht41)
 <br>
-✍A passionate developer from Vietnam 🇻🇳
+✍ A passionate developer from Vietnam 🇻🇳
 <br>
 ✍ I'm a Information System at Industrial University of Ho Chi Minh City.
 <br>
