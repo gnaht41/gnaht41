@@ -1,10 +1,12 @@
 # 💫About Me :
-👋 Hi, I'm Quốc Thắng (gnaht41)
-<br>
-✍ A passionate developer from Vietnam 🇻🇳
-<br>
-✍ I'm a Information System at Industrial University of Ho Chi Minh City.
-<br>
+# 👋 Xin chào, mình là Nguyễn Đức Quốc Thắng  
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gnaht41) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_qthang04/)
+## 🧑‍💻 Giới thiệu
+- 🎓 Sinh năm **2004**, hiện là sinh viên tại **Trường Đại học Công nghiệp TP.HCM (IUH)**  
+- 💻 Một developer trẻ đầy đam mê với lập trình và công nghệ  
+- 🚀 Luôn mong muốn học hỏi, trau dồi kỹ năng và tạo ra những sản phẩm hữu ích  
+
+## 📫Liên hệ
+- Email: gnaht41@gmail.com  
+- Facebook: https://www.facebook.com/gnaht41/
+- instagram: https://www.instagram.com/_qthang04/
