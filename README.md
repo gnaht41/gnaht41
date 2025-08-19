@@ -1,4 +1,3 @@
-# 💫About Me :
 # 👋 Xin chào, mình là Nguyễn Đức Quốc Thắng  
 
 ## 🧑‍💻 Giới thiệu
