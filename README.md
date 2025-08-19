@@ -1,7 +1,7 @@
 # 👋 Xin chào, mình là Nguyễn Đức Quốc Thắng  
 
 ## 🧑‍💻 Giới thiệu
-- 💻 Một developer trẻ đầy đam mê với lập trình và công nghệ  
+- 💻 Một developer đam mê với lập trình và công nghệ  
 - 🚀 Luôn mong muốn học hỏi, trau dồi kỹ năng
 
 ## 📫Liên hệ
