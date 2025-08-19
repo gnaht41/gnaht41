@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Giới thiệu
 - 💻 Một developer trẻ đầy đam mê với lập trình và công nghệ  
-- 🚀 Luôn mong muốn học hỏi, trau dồi kỹ năng và tạo ra những sản phẩm hữu ích  
+- 🚀 Luôn mong muốn học hỏi, trau dồi kỹ năng
 
 ## 📫Liên hệ
 - Email: gnaht41@gmail.com  
